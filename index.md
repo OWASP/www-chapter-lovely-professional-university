@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<a href="https://20thanniversary.owasp.org/"><img src="https://github.com/OWASP/www-chapter-lovely-professional-university/blob/main/assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
+<a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
 
 ## About University
 Lovely Professional University (LPU) is a private university and is located on the outskirts of Jalandhar, Punjab, India established in 2005, founded by late Sh. Baldev Raj Mittal. 
