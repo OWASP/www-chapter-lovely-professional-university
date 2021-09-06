@@ -9,7 +9,7 @@ tags: OWASP-LPU Speakers
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP SRM meetup? [Contact Us](mailto:kanigolla.likhith@owasp.org)
+Would you like to speak on the upcoming OWASP LPU meetup? [Contact Us](mailto:kanigolla.likhith@owasp.org)
 
 **Email Format :**
 
