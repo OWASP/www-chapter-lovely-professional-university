@@ -8,26 +8,17 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+## About University
+Lovely Professional University (LPU) is a private university and is located on the outskirts of Jalandhar, Punjab, India established in 2005, founded by late Sh. Baldev Raj Mittal. 
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Managed by our respected chancellor, Mr. Ashok Mittal, pro-chancellor, Mrs. Rashmi Mittal, and vice-chancellor, Mr. Ramesh Kanwar. 
+It is the largest student campus university in India, spread over 600 acres, with more than 30,000 students, over 4000 faculty, staff, having a huge campus area. When we talk about LPU, one can say that it is having its own world. 
+The campus is beautiful, provides numerous opportunities, offers more than 200 programs, having an amazing infrastructure. 
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+LPU is ranked among the Top 200 universities of the world as per the Times Higher Ranking Impact Education 2020. Holding a number of records, the campus is full of uniqueness. 
+With internationally benchmarked curricula, innovative pedagogy, experiential learning, and 200+ foreign tie-ups for equitable and affordable quality education, the University is poised to establish itself as a Centre of Excellence in Research.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
-## Welcome
-Include some information here about your chapter
+Even in the time of lockdown, the efforts made by the university to provide student educational support is surely commendable.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -38,7 +29,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+Will Be Informed Soon. Till then Stay tuned
 
 <!-- You should delete this comment
 
