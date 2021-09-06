@@ -4,7 +4,7 @@ displaytext: Speakers
 layout: null
 tab: true
 order: 1
-tags: OWASP LPU STUDENT CHAPTER
+tags: OWASP-LPU Speakers
 ---
 
 ## Speakers
