@@ -26,3 +26,4 @@ Would you like to speak on the upcoming OWASP LPU meetup? [Contact Us](mailto:ka
     - Presentation time required
 - Date and Time you want to talk
 - Outcomes of the talk/workshop
+Kindly review our [speaker agreement](/www-policy/legal/speaker-agreement) before proceeding.
