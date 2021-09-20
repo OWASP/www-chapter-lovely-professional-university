@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Lovely Professional University
+title: OWASP Lovely Professional University - Student Chapter
 tags: OWASP-LPU Speakers
 region: Asia
 meetup-group:
