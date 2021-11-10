@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Lovely Professional University - Student Chapter
 tags: OWASP-LPU Speakers, OWASP-LPU Upcoming Events, OWASP-LPU Past Events
 region: Asia
-meetup-group:
+meetup-group:owasp-lovely-professional-university-chapter-student
 
 ---
 
