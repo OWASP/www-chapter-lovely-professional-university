@@ -7,5 +7,6 @@
 * [LinkedIn](https://www.linkedin.com/company/owasp-lpu/)
 * [Twitter](https://twitter.com/owasp_lpu)
 * [Instagram](https://www.instagram.com/owasp_lpu/)
+* [Youtube](https://www.youtube.com/channel/UCg70aYUEoBV_pn-skdFcA-Q)
 
 
