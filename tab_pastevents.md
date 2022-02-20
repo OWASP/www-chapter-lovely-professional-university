@@ -15,7 +15,7 @@ Event Duration: 24 hrs.
 Start Time - 9 AM</p>
 
 <a href="https://www.meetup.com/owasp-lovely-professional-university-chapter-student/events/284070187/">View Event</a><br>
-<img src="assets/images/ctf_20th_feb_2022.png" width="25%" height=auto align=center/></a>
+<img src="assets/images/ctf_20th_feb_2022.png" width="25%" height=auto align=center/>
 
 ## November 2021 Meetup
 <p> Cybersecurity Lovers and enthusiastic Learners it's a great opportunity to get to know how You Can Start Your Cyber Journey by Ryan M. Montgomery.
