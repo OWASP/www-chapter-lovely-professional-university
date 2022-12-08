@@ -1,10 +1,9 @@
 ---
-title: leaders
-displaytext: Leaders 
-layout: null
+title: Leaders
+layout:  null
 tab: true
-order:3 
-tags: OWASP-LPU Leaders
+order: 3
+tags: OWASP LPU Leaders
 ---
 
 # **Chapter Leaders**
