@@ -1,9 +1,9 @@
 ---
-title: leaders
+title: Leaders
 displaytext: Leaders 
 layout: null
 tab: true
-order:3 
+order: 3
 tags: OWASP-LPU Leaders
 ---
 
