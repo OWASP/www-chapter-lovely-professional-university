@@ -8,7 +8,7 @@ meetup-group: owasp-lovely-professional-university-chapter-student
 
 ---
 
-<a href="https://owasp.org/www-chapter-lovely-professional-university/"><img src="assets/images/owasp rectangle.png" style="width: auto; height: auto;" alt="OWASP LPU CHAPTER"/></a>
+<a href="https://owasp.org/www-chapter-lovely-professional-university/"><img src="assets/images/owaspLogo.png" style="width: auto; height: auto;" alt="OWASP LPU CHAPTER"/></a>
 
 ## About University
 Lovely Professional University (LPU) is a private university and is located on the outskirts of Jalandhar, Punjab, India established in 2005, founded by late Sh. Baldev Raj Mittal. 
